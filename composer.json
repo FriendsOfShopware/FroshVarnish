@@ -1,0 +1,18 @@
+{
+  "name": "frosh/varnish",
+  "description": "Varnish Implementation for Shopware 6",
+  "type": "shopware-platform-plugin",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Frosh\\Varnish\\": "src/"
+    }
+  },
+  "extra": {
+    "shopware-plugin-class": "Frosh\\Varnish\\FroshVarnish",
+    "label": {
+      "de-DE": "Varnish",
+      "en-GB": "Varnish"
+    }
+  }
+}
