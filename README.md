@@ -1,5 +1,7 @@
 # Experimental Varnish Cache for Shopware 6
 
+# HttpCache will get a huge update in 6.4 postponed until the Release
+
 ## Installation
 
 * Setup Varnish
